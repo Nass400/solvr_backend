@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",
+    "sourceMap": true,
+    "moduleResolution": "node",
+    "outDir": "src/js",
+    "esModuleInterop": true,
+    
+  }
+}
